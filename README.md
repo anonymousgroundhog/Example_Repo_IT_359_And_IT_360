@@ -1,2 +1,9 @@
 # IT_360_Final_Project_Spring2026
-Group project repo
+
+
+## Team Members
+- Member 1
+- Member 2
+
+## Project Idea
+Place your descrition and details here.
