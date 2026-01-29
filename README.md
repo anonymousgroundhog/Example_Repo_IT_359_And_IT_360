@@ -7,3 +7,4 @@
 
 ## Project Idea
 Place your descrition and details here.
+Add some new details.
